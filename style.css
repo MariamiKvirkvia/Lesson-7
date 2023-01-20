@@ -11,6 +11,18 @@
     background-repeat: no-repeat;
 }
 
+.fireworks{
+    width: 100px;
+    position: absolute;
+    margin-left: 300px;
+}
+
+.fireworks2{
+    width: 100px;
+    position: absolute;
+    margin-left: 500px;
+}
+
 .horse1{
     position: absolute;
     margin-top: 260px;
