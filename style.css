@@ -49,6 +49,12 @@
     animation-direction: alternate; 
 }
 
+h1{
+    position: absolute;
+    margin-left: 10%;
+    color:crimson
+}
+
 @keyframes moveRight{
     from {
         left: 0;
